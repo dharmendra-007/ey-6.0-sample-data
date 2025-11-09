@@ -1,0 +1,260 @@
+[
+  {
+    "identifier": "AAAPL1234X",
+    "name": "Ravi Kumar",
+    "dateOfBirth": "1985-04-12",
+    "score": 820,
+    "scoreBand": "Excellent",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 15000,
+        "limit": 75000,
+        "openedDate": "2010-06-01",
+        "lastPaymentDate": "2025-10-29"
+      },
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 250000,
+        "limit": null,
+        "openedDate": "2018-01-15",
+        "lastPaymentDate": "2025-10-10"
+      }
+    ],
+    "inquiriesLast6Months": 1,
+    "missedPaymentsLast12Months": 0,
+    "creditUtilisationPercent": 20,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "BBBPQ9876Y",
+    "name": "Priya Singh",
+    "dateOfBirth": "1992-11-30",
+    "score": 690,
+    "scoreBand": "Fair",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 30000,
+        "limit": 60000,
+        "openedDate": "2019-03-22",
+        "lastPaymentDate": "2025-10-28"
+      },
+      {
+        "accountType": "loan",
+        "status": "closed",
+        "balance": 0,
+        "limit": null,
+        "openedDate": "2015-07-10",
+        "lastPaymentDate": "2024-07-10"
+      }
+    ],
+    "inquiriesLast6Months": 3,
+    "missedPaymentsLast12Months": 2,
+    "creditUtilisationPercent": 50,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "CCCCC2222Z",
+    "name": "Arjun Mehta",
+    "dateOfBirth": "1979-02-14",
+    "score": 750,
+    "scoreBand": "Good",
+    "accounts": [
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 500000,
+        "limit": null,
+        "openedDate": "2020-09-05",
+        "lastPaymentDate": "2025-10-05"
+      }
+    ],
+    "inquiriesLast6Months": 0,
+    "missedPaymentsLast12Months": 1,
+    "creditUtilisationPercent": 35,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "DDDDD3333W",
+    "name": "Sneha Reddy",
+    "dateOfBirth": "1988-12-01",
+    "score": 610,
+    "scoreBand": "Poor",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 45000,
+        "limit": 50000,
+        "openedDate": "2022-01-20",
+        "lastPaymentDate": "2025-10-20"
+      },
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 150000,
+        "limit": null,
+        "openedDate": "2023-05-10",
+        "lastPaymentDate": "2025-09-30"
+      }
+    ],
+    "inquiriesLast6Months": 4,
+    "missedPaymentsLast12Months": 5,
+    "creditUtilisationPercent": 90,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "EEEEE4444X",
+    "name": "Vikram Patel",
+    "dateOfBirth": "1995-08-19",
+    "score": 780,
+    "scoreBand": "Good",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 10000,
+        "limit": 50000,
+        "openedDate": "2018-11-12",
+        "lastPaymentDate": "2025-10-30"
+      }
+    ],
+    "inquiriesLast6Months": 1,
+    "missedPaymentsLast12Months": 0,
+    "creditUtilisationPercent": 20,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "FFFFF5555Y",
+    "name": "Anita Das",
+    "dateOfBirth": "1975-03-27",
+    "score": 550,
+    "scoreBand": "Poor",
+    "accounts": [
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 400000,
+        "limit": null,
+        "openedDate": "2016-06-16",
+        "lastPaymentDate": "2025-08-15"
+      },
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 60000,
+        "limit": 60000,
+        "openedDate": "2021-04-05",
+        "lastPaymentDate": "2025-10-05"
+      }
+    ],
+    "inquiriesLast6Months": 5,
+    "missedPaymentsLast12Months": 8,
+    "creditUtilisationPercent": 100,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "GGGGG6666Z",
+    "name": "Rahul Sharma",
+    "dateOfBirth": "1990-07-21",
+    "score": 830,
+    "scoreBand": "Excellent",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 5000,
+        "limit": 100000,
+        "openedDate": "2012-10-01",
+        "lastPaymentDate": "2025-10-29"
+      },
+      {
+        "accountType": "loan",
+        "status": "closed",
+        "balance": 0,
+        "limit": null,
+        "openedDate": "2013-03-14",
+        "lastPaymentDate": "2023-03-14"
+      }
+    ],
+    "inquiriesLast6Months": 0,
+    "missedPaymentsLast12Months": 0,
+    "creditUtilisationPercent": 5,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "HHHHH7777W",
+    "name": "Meera Joshi",
+    "dateOfBirth": "1983-05-05",
+    "score": 720,
+    "scoreBand": "Good",
+    "accounts": [
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 200000,
+        "limit": null,
+        "openedDate": "2019-08-30",
+        "lastPaymentDate": "2025-10-10"
+      },
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 20000,
+        "limit": 40000,
+        "openedDate": "2020-02-14",
+        "lastPaymentDate": "2025-10-20"
+      }
+    ],
+    "inquiriesLast6Months": 2,
+    "missedPaymentsLast12Months": 1,
+    "creditUtilisationPercent": 48,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "IIIII8888X",
+    "name": "Suresh Nair",
+    "dateOfBirth": "1969-10-10",
+    "score": 640,
+    "scoreBand": "Poor",
+    "accounts": [
+      {
+        "accountType": "loan",
+        "status": "open",
+        "balance": 300000,
+        "limit": null,
+        "openedDate": "2014-12-01",
+        "lastPaymentDate": "2025-09-15"
+      }
+    ],
+    "inquiriesLast6Months": 3,
+    "missedPaymentsLast12Months": 4,
+    "creditUtilisationPercent": 70,
+    "reportDate": "2025-11-08"
+  },
+  {
+    "identifier": "JJJJJ9999Y",
+    "name": "Kavita Rao",
+    "dateOfBirth": "1998-09-25",
+    "score": 800,
+    "scoreBand": "Excellent",
+    "accounts": [
+      {
+        "accountType": "credit_card",
+        "status": "open",
+        "balance": 8000,
+        "limit": 20000,
+        "openedDate": "2021-06-11",
+        "lastPaymentDate": "2025-10-31"
+      }
+    ],
+    "inquiriesLast6Months": 1,
+    "missedPaymentsLast12Months": 0,
+    "creditUtilisationPercent": 40,
+    "reportDate": "2025-11-08"
+  }
+]
